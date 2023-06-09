@@ -1,2 +1,2 @@
-File 1 is being added
-File2 is being added with Branch1
+File2 is being Modified with Branch1
+File 3 is being added with Branch1
